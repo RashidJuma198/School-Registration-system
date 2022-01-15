@@ -1,0 +1,136 @@
+.title{
+    background-color: khaki;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color:blue;
+}
+.links{
+    background-color: khaki;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    
+}
+body{
+    background-color: blue;
+}
+.studentform, .schoolinfo{
+    color:white;
+}
+label{
+    color:white;
+    font-size:30px;
+}
+.legendtitle{
+    text-align: center;
+    font-size: 25px;
+    color:white;
+    
+}
+input{
+    color:black;
+    background-color: khaki;
+    width: 200px;
+    height: 30px;
+    font-size: 20px;
+    border-radius:15px ;
+    border-top: none;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+}
+input:hover{
+    background-color: white;
+}
+.fieldsetstudent,.edudetails,.institutiondetails{
+    border-bottom-right-radius:20px ;
+    border-bottom-left-radius:20px ;
+    border-top-right-radius:20px ;
+    border-top-left-radius:20px ;
+}
+.maritalstatus{
+    background-color: khaki;
+    width: 200px;
+    height: 30px;
+    font-size: 20px;
+    border-radius:15px ;
+    border-top: none;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+}
+.gender,.department,.module,.course{
+    background-color: khaki;
+    width: 200px;
+    height: 30px;
+    font-size: 20px;
+    border-radius:15px ;
+    border-top: none;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+}  
+.religion{
+    background-color: khaki;
+    width: 200px;
+    height: 30px;
+    font-size: 20px;
+    border-radius:15px ;
+    border-top: none;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+   
+}
+.btn1{
+    margin-left: 20px;
+    height: 40px;
+    border-radius: 10px;
+    width: 100px;
+    background-color: khaki;
+    font-size: 14px;
+    margin:8px 8px;
+    display:inline-block;
+    text-align: center;
+}
+.btn2{
+    margin-left: 50px;
+    margin-left: 20px;
+    height: 40px;
+    width: 100px;
+    font-size: 14px;
+    margin:8px 8px;
+    display:inline-block;
+    text-align: center;
+    background-color: khaki;
+    border-radius: 10px;
+}
+.btn3{
+    margin-left: 70px;
+    margin-left: 20px;
+    height: 40px;
+    width: 170px;
+    font-size: 15px;
+    margin:8px 8px;
+    display:inline-block;
+    text-align: center;
+    background-color: khaki;
+    border-radius: 10px;
+}
+
+.institutename{
+    width: 400px;
+}
+.course{
+    background-color: khaki;
+    width: 200px;
+    height: 30px;
+    font-size: 20px;
+    border-radius:15px ;
+    border-top: none;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;  
+}
+
